@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KauaiGuy
 - 👀 I’m interested in learning how to program to create software and applications that offer solutions to make everyday tasks and goals easier!
-- 🚔 I'm currently employed as a police officer. I've been in this position for 7 years. While I enjoy it, I am looking for a more flexible career.
+- 🚔 I'm currently employed as a police officer. I've been in this position for 7 years. While I enjoy it, I am looking for a more flexible career that I'm passionate about.
 - 🌱 I’m currently learning Python, Swift, and working through OSSU on GitHub.
 - 📫 How to reach me ... email: kauaiguy94@gmail.com, twitter: @kauaiguy94
 
